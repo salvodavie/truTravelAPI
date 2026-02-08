@@ -1,0 +1,558 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "city": "miami",
+      "hotelName": "Hilton Downtown",
+      "rating": "★★★★",
+      "minRate": 120,
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Gym"
+      ],
+      "image": "/src/assets/hotel3.jpg"
+    },
+    {
+      "id": 2,
+      "city": "miami",
+      "hotelName": "Marriott Brickell",
+      "rating": "★★★★",
+      "minRate": 180,
+      "amenities": [
+        "Spa",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel5.jpg"
+    },
+    {
+      "id": 3,
+      "city": "boston",
+      "hotelName": "Boston Grand Hotel",
+      "rating": "★★★★★",
+      "minRate": 160,
+      "amenities": [
+        "Bar",
+        "Gym"
+      ],
+      "image": "/src/assets/hotel1.jpg"
+    },
+    {
+      "id": 4,
+      "city": "new york",
+      "hotelName": "Park Central Manhattan",
+      "rating": "★★★★★",
+      "minRate": 240,
+      "amenities": [
+        "Gym",
+        "Spa",
+        "WiFi",
+        "Bar"
+      ],
+      "image": "/src/assets/hotel7.jpg"
+    },
+    {
+      "id": 5,
+      "city": "chicago",
+      "hotelName": "Windy City Plaza",
+      "rating": "★★★",
+      "minRate": 100,
+      "amenities": [
+        "WiFi",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel4.jpg"
+    },
+    {
+      "id": 6,
+      "city": "los angeles",
+      "hotelName": "Sunset Boulevard Inn",
+      "rating": "★★★★",
+      "minRate": 150,
+      "amenities": [
+        "Pool",
+        "Bar",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel2.jpg"
+    },
+    {
+      "id": 7,
+      "city": "seattle",
+      "hotelName": "Emerald View Suites",
+      "rating": "★★★★",
+      "minRate": 170,
+      "amenities": [
+        "Gym",
+        "Breakfast",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel6.jpg"
+    },
+    {
+      "id": 8,
+      "city": "atlanta",
+      "hotelName": "Peachtree Grand Hotel",
+      "rating": "★★★",
+      "minRate": 110,
+      "amenities": [
+        "Spa",
+        "WiFi",
+        "Pool"
+      ],
+      "image": "/src/assets/hotel1.jpg"
+    },
+    {
+      "id": 9,
+      "city": "denver",
+      "hotelName": "Rocky Mountain Lodge",
+      "rating": "★★★★",
+      "minRate": 140,
+      "amenities": [
+        "Gym",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel5.jpg"
+    },
+    {
+      "id": 10,
+      "city": "san francisco",
+      "hotelName": "Golden Gate Suites",
+      "rating": "★★★★★",
+      "minRate": 260,
+      "amenities": [
+        "Bar",
+        "Spa",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel6.jpg"
+    },
+    {
+      "id": 11,
+      "city": "las vegas",
+      "hotelName": "Desert Mirage Resort",
+      "rating": "★★★★★",
+      "minRate": 320,
+      "amenities": [
+        "Pool",
+        "Bar",
+        "Spa",
+        "Gym"
+      ],
+      "image": "/src/assets/hotel2.jpg"
+    },
+    {
+      "id": 12,
+      "city": "houston",
+      "hotelName": "Bayou City Inn",
+      "rating": "★★★",
+      "minRate": 90,
+      "amenities": [
+        "WiFi",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel7.jpg"
+    },
+    {
+      "id": 13,
+      "city": "orlando",
+      "hotelName": "Lakeview Family Resort",
+      "rating": "★★★★",
+      "minRate": 130,
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel4.jpg"
+    },
+    {
+      "id": 14,
+      "city": "san diego",
+      "hotelName": "Pacific Breeze Hotel",
+      "rating": "★★★★★",
+      "minRate": 210,
+      "amenities": [
+        "Spa",
+        "WiFi",
+        "Bar"
+      ],
+      "image": "/src/assets/hotel5.jpg"
+    },
+    {
+      "id": 15,
+      "city": "nashville",
+      "hotelName": "Music City Suites",
+      "rating": "★★★",
+      "minRate": 115,
+      "amenities": [
+        "WiFi",
+        "Bar"
+      ],
+      "image": "/src/assets/hotel3.jpg"
+    },
+    {
+      "id": 16,
+      "city": "austin",
+      "hotelName": "Lone Star Inn",
+      "rating": "★★★★",
+      "minRate": 155,
+      "amenities": [
+        "Gym",
+        "Pool",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel6.jpg"
+    },
+    {
+      "id": 17,
+      "city": "philadelphia",
+      "hotelName": "Liberty Plaza Hotel",
+      "rating": "★★★★",
+      "minRate": 175,
+      "amenities": [
+        "Bar",
+        "Spa",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel1.jpg"
+    },
+    {
+      "id": 18,
+      "city": "portland",
+      "hotelName": "Rose Garden Lodge",
+      "rating": "★★★",
+      "minRate": 125,
+      "amenities": [
+        "WiFi",
+        "Gym",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel7.jpg"
+    },
+    {
+      "id": 19,
+      "city": "charlotte",
+      "hotelName": "Queen City Suites",
+      "rating": "★★★",
+      "minRate": 105,
+      "amenities": [
+        "Pool",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel2.jpg"
+    },
+    {
+      "id": 20,
+      "city": "new orleans",
+      "hotelName": "Bayou Crescent Hotel",
+      "rating": "★★★★",
+      "minRate": 160,
+      "amenities": [
+        "Bar",
+        "WiFi",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel4.jpg"
+    },
+    {
+      "id": 21,
+      "city": "phoenix",
+      "hotelName": "Desert Horizon Inn",
+      "rating": "★★★★",
+      "minRate": 145,
+      "amenities": [
+        "Pool",
+        "Gym",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel3.jpg"
+    },
+    {
+      "id": 22,
+      "city": "detroit",
+      "hotelName": "Motor City Grand",
+      "rating": "★★★",
+      "minRate": 95,
+      "amenities": [
+        "WiFi",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel6.jpg"
+    },
+    {
+      "id": 23,
+      "city": "dallas",
+      "hotelName": "Lone Star Executive",
+      "rating": "★★★★",
+      "minRate": 150,
+      "amenities": [
+        "Gym",
+        "Spa",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel7.jpg"
+    },
+    {
+      "id": 24,
+      "city": "seattle",
+      "hotelName": "Rainier View Hotel",
+      "rating": "★★★★",
+      "minRate": 170,
+      "amenities": [
+        "Gym",
+        "WiFi",
+        "Pool"
+      ],
+      "image": "/src/assets/hotel5.jpg"
+    },
+    {
+      "id": 25,
+      "city": "miami",
+      "hotelName": "Ocean Breeze Resort",
+      "rating": "★★★★★",
+      "minRate": 260,
+      "amenities": [
+        "Pool",
+        "Spa",
+        "WiFi",
+        "Bar"
+      ],
+      "image": "/src/assets/hotel2.jpg"
+    },
+    {
+      "id": 26,
+      "city": "chicago",
+      "hotelName": "Magnificent Mile Suites",
+      "rating": "★★★★",
+      "minRate": 190,
+      "amenities": [
+        "Gym",
+        "WiFi",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel4.jpg"
+    },
+    {
+      "id": 27,
+      "city": "los angeles",
+      "hotelName": "Hollywood Grand Hotel",
+      "rating": "★★★★★",
+      "minRate": 310,
+      "amenities": [
+        "Pool",
+        "Bar",
+        "Spa",
+        "Gym"
+      ],
+      "image": "/src/assets/hotel1.jpg"
+    },
+    {
+      "id": 28,
+      "city": "san francisco",
+      "hotelName": "Bay Bridge Inn",
+      "rating": "★★★★",
+      "minRate": 230,
+      "amenities": [
+        "WiFi",
+        "Gym",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel7.jpg"
+    },
+    {
+      "id": 29,
+      "city": "new york",
+      "hotelName": "Broadway Central Hotel",
+      "rating": "★★★★★",
+      "minRate": 300,
+      "amenities": [
+        "Bar",
+        "Gym",
+        "WiFi",
+        "Spa"
+      ],
+      "image": "/src/assets/hotel6.jpg"
+    },
+    {
+      "id": 30,
+      "city": "atlanta",
+      "hotelName": "Downtown Peachtree Suites",
+      "rating": "★★★",
+      "minRate": 115,
+      "amenities": [
+        "Breakfast",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel3.jpg"
+    },
+    {
+      "id": 31,
+      "city": "denver",
+      "hotelName": "Mile High Plaza",
+      "rating": "★★★★",
+      "minRate": 160,
+      "amenities": [
+        "Gym",
+        "WiFi",
+        "Spa"
+      ],
+      "image": "/src/assets/hotel2.jpg"
+    },
+    {
+      "id": 32,
+      "city": "boston",
+      "hotelName": "Beacon Hill Lodge",
+      "rating": "★★★",
+      "minRate": 145,
+      "amenities": [
+        "WiFi",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel5.jpg"
+    },
+    {
+      "id": 33,
+      "city": "houston",
+      "hotelName": "Space City Inn",
+      "rating": "★★★★",
+      "minRate": 155,
+      "amenities": [
+        "Pool",
+        "Gym",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel1.jpg"
+    },
+    {
+      "id": 34,
+      "city": "orlando",
+      "hotelName": "Sunshine Resort & Spa",
+      "rating": "★★★★★",
+      "minRate": 210,
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Breakfast",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel7.jpg"
+    },
+    {
+      "id": 35,
+      "city": "las vegas",
+      "hotelName": "Stripside Luxury Hotel",
+      "rating": "★★★★★",
+      "minRate": 340,
+      "amenities": [
+        "Pool",
+        "Bar",
+        "Spa",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel4.jpg"
+    },
+    {
+      "id": 36,
+      "city": "nashville",
+      "hotelName": "Downtown Music Inn",
+      "rating": "★★★",
+      "minRate": 130,
+      "amenities": [
+        "WiFi",
+        "Bar"
+      ],
+      "image": "/src/assets/hotel2.jpg"
+    },
+    {
+      "id": 37,
+      "city": "san diego",
+      "hotelName": "Harborfront Suites",
+      "rating": "★★★★",
+      "minRate": 190,
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel5.jpg"
+    },
+    {
+      "id": 38,
+      "city": "austin",
+      "hotelName": "Capitol View Hotel",
+      "rating": "★★★★",
+      "minRate": 180,
+      "amenities": [
+        "Gym",
+        "WiFi",
+        "Bar"
+      ],
+      "image": "/src/assets/hotel7.jpg"
+    },
+    {
+      "id": 39,
+      "city": "philadelphia",
+      "hotelName": "Independence Hall Inn",
+      "rating": "★★★",
+      "minRate": 140,
+      "amenities": [
+        "Breakfast",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel3.jpg"
+    },
+    {
+      "id": 40,
+      "city": "portland",
+      "hotelName": "Riverwalk Hotel",
+      "rating": "★★★★",
+      "minRate": 160,
+      "amenities": [
+        "Gym",
+        "WiFi",
+        "Bar"
+      ],
+      "image": "/src/assets/hotel6.jpg"
+    },
+    {
+      "id": 41,
+      "city": "charlotte",
+      "hotelName": "Uptown Queen Hotel",
+      "rating": "★★★★",
+      "minRate": 165,
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Gym"
+      ],
+      "image": "/src/assets/hotel1.jpg"
+    },
+    {
+      "id": 42,
+      "city": "new orleans",
+      "hotelName": "French Quarter Suites",
+      "rating": "★★★★★",
+      "minRate": 220,
+      "amenities": [
+        "Bar",
+        "WiFi",
+        "Breakfast"
+      ],
+      "image": "/src/assets/hotel2.jpg"
+    },
+    {
+      "id": 43,
+      "city": "phoenix",
+      "hotelName": "Cactus Springs Resort",
+      "rating": "★★★★",
+      "minRate": 175,
+      "amenities": [
+        "Spa",
+        "Pool",
+        "WiFi"
+      ],
+      "image": "/src/assets/hotel5.jpg"
+    }
+  ]
+}
